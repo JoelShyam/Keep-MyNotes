@@ -53,7 +53,7 @@ function showNotes() {
 
   }
   else{
-    notesElm.innerHTML = `Nothig to show use "Add a Note" section above to add notes`
+    notesElm.innerHTML = `Nothing to show !!! Use "Add a Note" section above to add notes`
   }
 }
 
